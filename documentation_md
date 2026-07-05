@@ -1,9 +1,9 @@
 for header prompt - Hello, how are you doing? this is my assignment. Act as a Senior Frontend Developer and UI/UX Designer. Design a modern, responsive navigation bar for a Nigerian online takeaway restaurant called MamaPutOnline. The navigation bar should be sticky.
 Place a professional restaurant logo on the top-left corner beside the text "MamaPutOnline". Use a dark red (#8B0000) primary color with gold accents. Create menu items:
-* Products
-* Services
-* Customer Service
-* Contact Us
+. Products
+. Services
+. Customer Service
+. Contact Us
 
 Each menu item should contain dropdown options. Place a search box and search button on the far right. The design should feel warm, trustworthy, professional and food-oriented. Ensure full responsiveness for desktop, tablet and mobile devices.
 Use Tailwind CSS.
@@ -16,21 +16,20 @@ Left Column:
 Display a high-quality image of a steaming Nigerian meal.
 Right Column:
 Display a large headline encouraging customers to order Nigerian meals online. Include:
-* Main heading
-* Supporting text
-* Order Now button
-* View Menu button
+. Main heading
+. Supporting text
+. Order Now button
+. View Menu button
 Use food delivery themed colors. The section should inspire hunger and encourage purchases. Use Tailwind CSS.
 
 
 for the main product section ---  Create a food catalogue section for MamaPutOnline.
-
 Display a left-side navigation panel containing:
 
-* Soups
-* Rice Dishes
-* Local Delicacies
-* Proteins
+.Soups
+. Rice Dishes
+. Local Delicacies
+. Proteins
 
 The side panel should remain visible while scrolling and connect users to the main section/product cards.
 Create at least three rows of product cards.
@@ -54,6 +53,7 @@ Edikaikong Soup
 Okazi Soup
 Ogbono Soup
 Okro Soup
+Fisherman Soup
 Jollof Rice
 Fried Rice
 Porridge Yam
@@ -61,8 +61,10 @@ Porridge Beans
 Fried Plantain
 Abacha
 Nkwobi
-Kpomo
+Jollof Kpomo
 Fried Chicken
+Assorted Beaf
+smoked fish
 
 Use realistic Nigerian Naira pricing.
 
@@ -102,21 +104,6 @@ FOOTER SECTION ---
 Create a footer for the mamaPutOnline. It should be sticky. It should Include: Quick Links Products Services Customer Service Contact Us Social Media Icons: - Facebook - Instagram - TikTok - X (Twitter) - YouTube Include copyright: © 2026 MamaPutOnline. All Rights Reserved.
 
 
-====================================================
-9. SCROLL TO TOP BUTTON
-====================================================
-
-Create a floating button.
-
-Requirements:
-
-- Fixed at bottom-right corner
-- Smooth scrolling
-- Animated hover effect
-
-
-    suggested assignemets comments for hero -----  <!--
-====================================================
 MAMAPUTONLINE HERO SECTION
 
 Purpose:
